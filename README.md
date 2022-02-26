@@ -1,7 +1,7 @@
 <h2>Jogo de Naves usando HTML5, CSS3, JavaScript e JQuery</h2>
 
 <div align="center">
-    <img src="/Vid/Captura_Jogo.mp4" border="0" width="800" height="700">
+    <img src="/vid/Captura_Jogo.gif" border="0" width="800" height="700">
     <p>Tela de Jogo</p>
 </div>
 <br></br>
@@ -14,5 +14,5 @@ Estou programando em front-end para distrair e mudar um pouco eu foco em back-en
 </p>
 <br></br>
 <div>
-Video com audio:<link href="/Vid/2022-02-26-18-40-01_Trim.mp4">
+<h2>Video com audio:/vid/Video_Jogo_Completo.mp4"></h2>
 </div>
