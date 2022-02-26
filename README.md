@@ -1,7 +1,7 @@
 <h2>Jogo de Naves usando HTML5, CSS3, JavaScript e JQuery</h2>
 
 <div align="center">
-    <img src="Vid/Captura_Jogo.gif" width="600" height="300"> 
+    <img src="Vid/Captura_Jogo.gif" width="800" height="450"> 
     <p>Tela de Jogo</p>
 </div>
 <br></br>
